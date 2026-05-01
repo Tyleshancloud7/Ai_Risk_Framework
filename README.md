@@ -32,7 +32,8 @@ The framework was applied to **ChatGPT (GPT-4)** as a worked example, producing 
 
 ## 🖼️ Screenshots
 
-<img width="1536" height="1024" alt="ChatGPT Image Mar 18, 2026 at 02_30_46 PM" src="https://github.com/user-attachments/assets/61770d31-43b8-46dc-8df5-addbe2f3d4b3" />
+<img width="2280" height="1254" alt="Image 5-1-26 at 12 40 PM" src="https://github.com/user-attachments/assets/aa68d44f-8953-45f9-ba02-157f3257f510" />
+
 
 
 > 📸 See [`assets/screenshots/`](assets/screenshots/) for full-resolution images.
