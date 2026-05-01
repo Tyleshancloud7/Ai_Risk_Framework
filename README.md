@@ -32,13 +32,8 @@ The framework was applied to **ChatGPT (GPT-4)** as a worked example, producing 
 
 ## 🖼️ Screenshots
 
-| Excel Toolkit | Risk Dashboard | PDF Report Cover |
-|:---:|:---:|:---:|
-| ![Checklist](assets/screenshots/01_checklist.png) | ![Dashboard](assets/screenshots/02_dashboard.png) | ![Report](assets/screenshots/03_report_cover.png) |
+<img width="1536" height="1024" alt="ChatGPT Image Mar 18, 2026 at 02_30_46 PM" src="https://github.com/user-attachments/assets/61770d31-43b8-46dc-8df5-addbe2f3d4b3" />
 
-| Domain Findings | Heat Map | Top 5 Risks |
-|:---:|:---:|:---:|
-| ![Findings](assets/screenshots/04_domain_findings.png) | ![Heatmap](assets/screenshots/05_heatmap.png) | ![Top5](assets/screenshots/06_top5_risks.png) |
 
 > 📸 See [`assets/screenshots/`](assets/screenshots/) for full-resolution images.
 
